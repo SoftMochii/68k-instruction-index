@@ -1,0 +1,122 @@
+﻿[
+    {
+        "Instruction": "ADD",
+        "Page": "108"
+    },
+    {
+        "Instruction": "ADDI",
+        "Page": "113"
+    },
+    {
+        "Instruction": "ADDQ",
+        "Page": "115"
+    },
+    {
+        "Instruction": "AND",
+        "Page": "119"
+    },
+    {
+        "Instruction": "ANDI",
+        "Page": "122"
+    },
+    {
+        "Instruction": "ASL, ASR",
+        "Page": "125"
+    },
+    {
+        "Instruction": "Bcc",
+        "Page": "129"
+    },
+    {
+        "Instruction": "BRA",
+        "Page": "159"
+    },
+    {
+        "Instruction": "BSR",
+        "Page": "163"
+    },
+    {
+        "Instruction": "CLR",
+        "Page": "178"
+    },
+    {
+        "Instruction": "CMP",
+        "Page": "179"
+    },
+    {
+        "Instruction": "DIVS",
+        "Page": "196"
+    },
+    {
+        "Instruction": "DIVU",
+        "Page": "201"
+    },
+    {
+        "Instruction": "JMP",
+        "Page": "212"
+    },
+    {
+        "Instruction": "JSR",
+        "Page": "213"
+    },
+    {
+        "Instruction": "LEA",
+        "Page": "214"
+    },
+    {
+        "Instruction": "LSL, LSR",
+        "Page": "217"
+    },
+    {
+        "Instruction": "MOVE",
+        "Page": "220"
+    },
+    {
+        "Instruction": "MOVEA",
+        "Page": "223"
+    },
+    {
+        "Instruction": "MOVEM",
+        "Page": "232"
+    },
+    {
+        "Instruction": "MOVEQ",
+        "Page": "238"
+    },
+    {
+        "Instruction": "MULS",
+        "Page": "239"
+    },
+    {
+        "Instruction": "MULU",
+        "Page": "242"
+    },
+    {
+        "Instruction": "NOT",
+        "Page": "252"
+    },
+    {
+        "Instruction": "OR",
+        "Page": "254"
+    },
+    {
+        "Instruction": "ROL, ROR",
+        "Page": "264"
+    },
+    {
+        "Instruction": "RTS",
+        "Page": "273"
+    },
+    {
+        "Instruction": "SUB",
+        "Page": "278"
+    },
+    {
+        "Instruction": "SUBI",
+        "Page": "283"
+    },
+    {
+        "Instruction": "SUBQ",
+        "Page": "285"
+    }
+]
