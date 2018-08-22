@@ -1,5 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
+import logo from './binary-icon.png';
 import PropTypes from 'prop-types';
 import {Data} from './DataUpdate';
 import assembleIndex from './data.json';
@@ -28,11 +29,13 @@ export class DisplayList extends React.Component{
             <div className="App">
                 <header className="App-header">
                     <img src={logo} className="App-logo" alt="logo" />
-                    <h1 className="App-title">Welcome to 68k command index page!</h1>
+                    <h1 className="App-title">Welcome to 68k instructions index page!</h1>
                 </header>
                 <div>
                     <br/>
-                    <input id="formControlsText" type="text" placeholder="Search command" 
+                    <b>Page number can be reference using this <a href="https://www.nxp.com/files-static/archives/doc/ref_manual/M68000PRM.pdf">68k manual</a></b>
+                    <br/>
+                    <input id="formControlsText" type="text" placeholder="Search instruction" 
                         onChange={this.handleChange}/>
                         <br/><br/>
                     
