@@ -19,4 +19,4 @@ Then you can start your development server by typing below command.
 ```npm start```
 
 ##  Demo
-I hosted this website on https://68k.azurewebsites.net/, it is hosting on Azure Free Tier, so availability may be limited.
+I am hosting this website on https://68k.azurewebsites.net/, it using Azure Free Tier, so availability may be limited.
