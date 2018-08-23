@@ -1,4 +1,4 @@
-#   68000 Disassembler Manual Index
+#   68000 Instruction Manual Index
 ##  Background
 This project was created using React.js. It was created in hope to reduce the frustration students get when they are learning assembly language, or at least, make their hardware class less painful. 
 
