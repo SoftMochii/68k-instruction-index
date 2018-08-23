@@ -9,7 +9,7 @@
 
 .App-header {
   background-color: #222;
-  height: 150px;
+  height: 190px;
   padding: 20px;
   color: white;
 }
@@ -27,6 +27,18 @@
   to { transform: rotate(360deg); }
 }
 
-.thead {
-  background-color: lightgray
+.Table-Header{
+  background-color: lightgray;
+  font-weight: bold;
+}
+
+.Table-Format{
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.Info{
+  /* color:black; */
+  text-align: right;
 }
