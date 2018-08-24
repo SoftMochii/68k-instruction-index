@@ -8,6 +8,7 @@ Users can quickly search through 68000 assembly language instruction without goi
 
 ##  Usage
 Type your instruction keywords (ex: ADD, MOVE...) in the search box, the list will return found/relevant information to help you navigate through the PDF manual.
+
 Clicking on page number will reference you to the same page on the PDF.
 
 ##  Installing
