@@ -42,3 +42,8 @@
   /* color:black; */
   text-align: right;
 }
+
+.A-Tag-Color{
+  color: white;
+  text-decoration: underline;
+}
