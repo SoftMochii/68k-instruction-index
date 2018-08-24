@@ -1,11 +1,13 @@
 #   68000 Instruction Manual Index
 ##  Background
-This project was created using React.js. It was created in hope to reduce the frustration students get when they are learning assembly language, or at least, make their hardware class less painful. 
+This project was created using React.js. It was created in hope to reduce the frustration users get when they are learning assembly language.
+
+####  The 68000 manual PDF can be found [here](https://www.nxp.com/files-static/archives/doc/ref_manual/M68000PRM.pdf)
 
 ##  Usage
-Users can quickly search through 68000 assembly language instruction [manual](https://www.nxp.com/files-static/archives/doc/ref_manual/M68000PRM.pdf) without going through all the filler words in the manual. It provides faster lookup on assembly instructions than using CTRL + F to search through couple hundred other irrelevant words.
+Users can quickly search through 68000 assembly language instruction without going through all the filler words in the manual. It provides faster lookup on assembly instructions rather than using the search function (CTRL + F) to go through couple hundred other irrelevant words in the pdf document.
 
-Type in your desire instruction keywords (ex: ADD, MOVE...), the list will return page numbers that the instruction on the PDF manual.
+Type your instruction keywords (ex: ADD, MOVE...) in the search box, the list will return found/relevant information to help you navigate through the PDF manual.
 
 ##  Installing
 You need to have `Node.js` and `npm` installed.
@@ -19,4 +21,4 @@ Then you can start your development server by typing below command.
 ```npm start```
 
 ##  Demo
-I am hosting this website on https://68k.azurewebsites.net/, it using Azure Free Tier, so availability may be limited.
+I am hosting this website on https://68k.azurewebsites.net/, using Azure Free Tier, so availability may be limited.
