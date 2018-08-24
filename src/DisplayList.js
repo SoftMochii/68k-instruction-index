@@ -28,14 +28,12 @@ export class DisplayList extends React.Component{
         return(
             <div className="App">
                 <header className="App-header">
-                    <a href="https://github.com/SoftMochii/68k-instruction-index" target="_blank" className="A-Tag-Color"><h5 className="Info">Learn more about this project</h5></a>
+                    <a href="https://github.com/SoftMochii/68k-instruction-index" className="A-Tag-Color"><h5 className="Info">Learn more about this project</h5></a>
                     <img src={logo} className="App-logo" alt="logo" />
                     <h1 className="App-title">Welcome to 68k instructions index page!</h1>
                 </header>
                 <div>
                     <br/>
-                    <b>Page number can be reference using this <a href="https://www.nxp.com/files-static/archives/doc/ref_manual/M68000PRM.pdf">68k manual</a></b>
-                    <br/><br/>
                     <input id="formControlsText" type="text" placeholder="Search instruction" 
                         onChange={this.handleChange}/>
                         <br/><br/>

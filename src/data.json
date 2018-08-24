@@ -1,7 +1,8 @@
 ﻿[
     {
         "Instruction": "ADD",
-        "Page": "108"
+        "Page": "108",
+        "Link": "https://www.nxp.com/files-static/archives/doc/ref_manual/M68000PRM.pdf#page="
     },
     {
         "Instruction": "ADDI",
