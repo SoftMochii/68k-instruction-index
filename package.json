@@ -16,6 +16,9 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "merge": "^1.2.1"
+    "merge": "^1.2.1",
+    "lodash.template": ">=4.5.0",
+    "mem": ">=4.0.0",
+    "webpack-dev-server": ">=3.1.11"
   }
 }
