@@ -1,7 +1,7 @@
 #   68000 Instruction Manual Index
 
 ##  Demo
-I am hosting this website on https://68k.azurewebsites.net/, using Azure Free Tier, so availability may be limited.
+I am hosting this website on [HERE](https://68k.azurewebsites.net), using Azure Free Tier, so availability may be limited.
 
 ##  Background
 This project was created using React.js. It was created in hope to reduce the frustration users get when they are learning assembly language.
