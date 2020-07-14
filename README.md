@@ -1,4 +1,8 @@
 #   68000 Instruction Manual Index
+
+##  Demo
+I am hosting this website on https://68k.azurewebsites.net/, using Azure Free Tier, so availability may be limited.
+
 ##  Background
 This project was created using React.js. It was created in hope to reduce the frustration users get when they are learning assembly language.
 
@@ -21,6 +25,3 @@ After cloning the repo, you will need to run below command to install all the pa
 Then you can start your development server by typing below command.
 
 ```npm start```
-
-##  Demo
-I am hosting this website on https://68k.azurewebsites.net/, using Azure Free Tier, so availability may be limited.
